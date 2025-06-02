@@ -1,8 +1,8 @@
-# Перечисление 3-ориентированных и частично 3-ориентированных 2-деревьев
- Код мало оптимизирован, в угоду лучшему его пониманию
+# Enumeration of 3-oriented and partially 3-oriented 2-trees
+ The code prioritizes clarity over optimization
  \
- Дополнительные ссылки на Google colab
+ Additional Google Colab links
  \
- https://colab.research.google.com/drive/1MLKqx6cMHwScXW_YO43170HADylmjqqD?usp=sharing - 3-ориентированные 2-деревья
+ https://colab.research.google.com/drive/1MLKqx6cMHwScXW_YO43170HADylmjqqD?usp=sharing - 3-oriented 2-trees
  \
- https://colab.research.google.com/drive/1Z5h6mV6eWgieebyhxwokuxGLnAySL4l_?usp=sharing - частично 3-ориентированные 2-деревья
+ https://colab.research.google.com/drive/1Z5h6mV6eWgieebyhxwokuxGLnAySL4l_?usp=sharing - partially 3-oriented 2-trees
